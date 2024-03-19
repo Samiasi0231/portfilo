@@ -286,7 +286,7 @@ const IndexPage = () => {
                   proficient in using REACT to create engaging user experiences.
                   <br />
                   Also committed to <param name="" value="" />
-                  roducing high quality code and always looking for a way to
+                  producing high quality code and always looking for a way to
                   improve my skills.
                 </p>
                 <div className="mt-2">
