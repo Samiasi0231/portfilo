@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#port{
+background-image: url("../public/images/image\ bg.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.relative{
+    background-image: url("../public/images/Frame\ 18.png");
+    background-repeat: no-repeat;
+    max-width: 100%px; max-height:20%;
+    background-size: cover;
+}
